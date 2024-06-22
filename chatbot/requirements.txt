@@ -1,0 +1,14 @@
+openai
+langchain-community
+mysql-connector-python
+langchain-openai
+faiss-cpu
+azure-ai-textanalytics
+scikit-learn
+pandas
+sentence-transformers
+pyprojroot
+streamlit
+langchain-google-genai
+pymongo
+azure-cosmos

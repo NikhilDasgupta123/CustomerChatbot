@@ -1,0 +1,4 @@
+customer_id,first_name,last_name,email,phone_number,address,order_id,order_date,order_status,quantity,total_price,product_id,product_name,product_description,product_price,product_availability,product_specifications,shipment_id,shipment_date,estimated_arrival,shipment_status,shipment_error_details
+1,John,Doe,john.doe@example.com,123-456-7890,123 Elm Street,1,2024-06-01,Shipped,1,999.99,1,Laptop,A high performance laptop,999.99,1,"Intel i7, 16GB RAM, 512GB SSD",1,2024-06-02,2024-06-07,In Transit,
+2,Jane,Smith,jane.smith@example.com,987-654-3210,456 Oak Avenue,2,2024-06-05,Processing,2,1399.98,2,Smartphone,A latest model smartphone,699.99,1,"Snapdragon 888, 8GB RAM, 128GB Storage",2,2024-06-06,2024-06-11,Processing,Delayed due to inventory
+3,Alice,Johnson,alice.johnson@example.com,555-123-4567,789 Pine Road,3,2024-06-10,Delivered,1,199.99,3,Headphones,Noise cancelling headphones,199.99,1,"Over-ear, Bluetooth",3,2024-06-11,2024-06-16,Delivered,

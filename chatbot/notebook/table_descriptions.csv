@@ -1,0 +1,5 @@
+Table Name,Description
+Customer,Stores customer information including contact details.
+Product,"Stores product details such as name, description, price, and specifications."
+Orders,"Stores order details including customer, product, order date, status, quantity, and total price."
+Shipment,"Stores shipment details related to orders including shipment date, estimated arrival, and current status."
